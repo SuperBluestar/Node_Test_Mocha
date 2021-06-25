@@ -1,0 +1,6 @@
+dist/*.*
+node_modules
+src/index.html.ejs
+tests
+README.md
+yarn.lock
